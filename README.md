@@ -1,4 +1,4 @@
-# MATLAB Engineering Analysis Projects
+# MATLAB Projects
 
 Collection of engineering projects developed in MATLAB for ME2016 at Georgia Tech, focused on applying numerical methods to model, analyze, and optimize physical systems.
 
