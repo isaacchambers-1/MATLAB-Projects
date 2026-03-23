@@ -4,7 +4,9 @@ Collection of engineering projects developed in MATLAB for ME2016 at Georgia Tec
 
 Each project is based on a defined engineering scenario that was given (see `documents/Scenario X` within each project), with specific analysis and performance objectives.
 
-(Project 1 is omitted as it focuses on basic Taylor series estimation and error analysis.)
+The MATLAB scripts and supporting code are contained within each project folder.
+
+(Project 1 is omitted as it just focuses on basic Taylor series estimations). 
 
 ## Projects
 
