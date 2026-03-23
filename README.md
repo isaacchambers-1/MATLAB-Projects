@@ -9,6 +9,7 @@ Each project is based on a defined engineering scenario that was given (see `doc
 ## Projects
 
 **Project 2:** Beam / Structural Frequency Analysis using root-finding methods (implementation and performance comparison), parameter sweep, and sensitivity analysis  
+
 **Project 3:** Beam / Structural Frequency Analysis using least-squares regression models, error analysis (RMSE, residuals), spline interpolation, and extrapolation behavior analysis  
 
 **Project 4:** Regenerative Braking Energy Analysis using numerical differentiation and integration (custom implementations) for time-series data processing and energy estimation  
